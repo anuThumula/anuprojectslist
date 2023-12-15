@@ -1,4 +1,4 @@
-anuprojectslist.ccbp.tech
+https://anuprojectslist.ccbp.tech/
 
 # Projects on Static, Responsive and Dynamic websites
 
